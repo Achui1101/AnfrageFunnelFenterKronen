@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AnfrageFunnelFenterKronen/static/css/main.8a2685a8.css",
-    "main.js": "/AnfrageFunnelFenterKronen/static/js/main.d8202a48.js",
+    "main.js": "/AnfrageFunnelFenterKronen/static/js/main.aef9a851.js",
     "static/js/787.1cd257cd.chunk.js": "/AnfrageFunnelFenterKronen/static/js/787.1cd257cd.chunk.js",
     "static/media/FensterKunststoff.png": "/AnfrageFunnelFenterKronen/static/media/FensterKunststoff.11d68ea64e1d7050a38e.png",
     "static/media/FensterHolz.png": "/AnfrageFunnelFenterKronen/static/media/FensterHolz.d9f3130347cefc6f92e3.png",
@@ -28,11 +28,11 @@
     "index.html": "/AnfrageFunnelFenterKronen/index.html",
     "static/media/index.cjs": "/AnfrageFunnelFenterKronen/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "main.8a2685a8.css.map": "/AnfrageFunnelFenterKronen/static/css/main.8a2685a8.css.map",
-    "main.d8202a48.js.map": "/AnfrageFunnelFenterKronen/static/js/main.d8202a48.js.map",
+    "main.aef9a851.js.map": "/AnfrageFunnelFenterKronen/static/js/main.aef9a851.js.map",
     "787.1cd257cd.chunk.js.map": "/AnfrageFunnelFenterKronen/static/js/787.1cd257cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a2685a8.css",
-    "static/js/main.d8202a48.js"
+    "static/js/main.aef9a851.js"
   ]
 }
