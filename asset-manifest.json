@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/AnfrageFunnelFenterKronen/static/css/main.8a2685a8.css",
+    "main.js": "/AnfrageFunnelFenterKronen/static/js/main.d8202a48.js",
+    "static/js/787.1cd257cd.chunk.js": "/AnfrageFunnelFenterKronen/static/js/787.1cd257cd.chunk.js",
+    "static/media/FensterKunststoff.png": "/AnfrageFunnelFenterKronen/static/media/FensterKunststoff.11d68ea64e1d7050a38e.png",
+    "static/media/FensterHolz.png": "/AnfrageFunnelFenterKronen/static/media/FensterHolz.d9f3130347cefc6f92e3.png",
+    "static/media/bg.jpg": "/AnfrageFunnelFenterKronen/static/media/bg.379c9258dc8baac821b7.jpg",
+    "static/media/FensterAlu.png": "/AnfrageFunnelFenterKronen/static/media/FensterAlu.c0cae25d35ff06dc824b.png",
+    "static/media/Archivo-Medium.ttf": "/AnfrageFunnelFenterKronen/static/media/Archivo-Medium.e97cd30e553ba9fd0a65.ttf",
+    "static/media/dreifachverglasung.png": "/AnfrageFunnelFenterKronen/static/media/dreifachverglasung.bfac38bd9b6e8190d441.png",
+    "static/media/zweifachverglasung.png": "/AnfrageFunnelFenterKronen/static/media/zweifachverglasung.4898c6945d8c85cec7cf.png",
+    "static/media/keinemontage.png": "/AnfrageFunnelFenterKronen/static/media/keinemontage.1569d5dfd73347abca0b.png",
+    "static/media/gewerbe.png": "/AnfrageFunnelFenterKronen/static/media/gewerbe.e2c682ec2fd196fcac3b.png",
+    "static/media/no.png": "/AnfrageFunnelFenterKronen/static/media/no.4e6681abaf15dd31f247.png",
+    "static/media/15fenster.png": "/AnfrageFunnelFenterKronen/static/media/15fenster.e60a5ab61ca434e2693f.png",
+    "static/media/rollaeden.png": "/AnfrageFunnelFenterKronen/static/media/rollaeden.1b10d6ab98a424e8de1b.png",
+    "static/media/privat.png": "/AnfrageFunnelFenterKronen/static/media/privat.b5f862d5b44df3ea6144.png",
+    "static/media/ohnerollaeden.png": "/AnfrageFunnelFenterKronen/static/media/ohnerollaeden.2f203726927d4c6570e6.png",
+    "static/media/montage.png": "/AnfrageFunnelFenterKronen/static/media/montage.45d35df01ac02508eccc.png",
+    "static/media/5fenster.png": "/AnfrageFunnelFenterKronen/static/media/5fenster.ec8f5d9bd3c71ef5493b.png",
+    "static/media/balkontür.png": "/AnfrageFunnelFenterKronen/static/media/balkontür.d6a670f9be5897320f21.png",
+    "static/media/qm.png": "/AnfrageFunnelFenterKronen/static/media/qm.565303f01619ccc81b22.png",
+    "static/media/haustür.png": "/AnfrageFunnelFenterKronen/static/media/haustür.b9452d3da79b2dbc4f8f.png",
+    "static/media/1fenster.png": "/AnfrageFunnelFenterKronen/static/media/1fenster.321aaa21f8d07ab90705.png",
+    "static/media/hebeschiebetür.png": "/AnfrageFunnelFenterKronen/static/media/hebeschiebetür.2a8c2ffbc4726ccb9406.png",
+    "static/media/logo.svg": "/AnfrageFunnelFenterKronen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AnfrageFunnelFenterKronen/index.html",
+    "static/media/index.cjs": "/AnfrageFunnelFenterKronen/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.8a2685a8.css.map": "/AnfrageFunnelFenterKronen/static/css/main.8a2685a8.css.map",
+    "main.d8202a48.js.map": "/AnfrageFunnelFenterKronen/static/js/main.d8202a48.js.map",
+    "787.1cd257cd.chunk.js.map": "/AnfrageFunnelFenterKronen/static/js/787.1cd257cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a2685a8.css",
+    "static/js/main.d8202a48.js"
+  ]
+}
