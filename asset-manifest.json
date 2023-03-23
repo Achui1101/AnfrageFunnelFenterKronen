@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AnfrageFunnelFenterKronen/static/css/main.43fabf28.css",
-    "main.js": "/AnfrageFunnelFenterKronen/static/js/main.15db187b.js",
+    "main.js": "/AnfrageFunnelFenterKronen/static/js/main.1e416215.js",
     "static/js/787.1cd257cd.chunk.js": "/AnfrageFunnelFenterKronen/static/js/787.1cd257cd.chunk.js",
     "static/media/bg.jpg": "/AnfrageFunnelFenterKronen/static/media/bg.379c9258dc8baac821b7.jpg",
     "static/media/Archivo-Medium.ttf": "/AnfrageFunnelFenterKronen/static/media/Archivo-Medium.e97cd30e553ba9fd0a65.ttf",
@@ -17,11 +17,11 @@
     "index.html": "/AnfrageFunnelFenterKronen/index.html",
     "static/media/index.cjs": "/AnfrageFunnelFenterKronen/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "main.43fabf28.css.map": "/AnfrageFunnelFenterKronen/static/css/main.43fabf28.css.map",
-    "main.15db187b.js.map": "/AnfrageFunnelFenterKronen/static/js/main.15db187b.js.map",
+    "main.1e416215.js.map": "/AnfrageFunnelFenterKronen/static/js/main.1e416215.js.map",
     "787.1cd257cd.chunk.js.map": "/AnfrageFunnelFenterKronen/static/js/787.1cd257cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43fabf28.css",
-    "static/js/main.15db187b.js"
+    "static/js/main.1e416215.js"
   ]
 }
